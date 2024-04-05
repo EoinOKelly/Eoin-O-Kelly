@@ -1,3 +1,3 @@
-I am 16 Years Old
-Im a big videogames fan and want to start working on them
-I am currently learning how to use unity
+I am 18 Years Old
+Currently in 6th year of secondary school
+I can use python 
